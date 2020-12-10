@@ -1,1 +1,2 @@
 # CollectionFramProject
+平时代码练习敲的一些集合框架的Demo，这里主要是集合框架里面的Collection接口，通过一些它的实现类进行数据增删遍历
